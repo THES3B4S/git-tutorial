@@ -1,2 +1,2 @@
 console.log("index.js");
-console.log("version 5gg");
+console.log("version 6");
